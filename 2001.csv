@@ -1,0 +1,101 @@
+index,alltime,country,id,pollyear,position,artist,track,releaseyear,url,release_date
+994,False,Australia,995,2001.0,1.0,Alex Lloyd,Amazing,2001.0,https://genius.com/Alex-Lloyd-amazing-lyrics,---
+995,False,Australia,996,2001.0,2.0,Something for Kate,Monsters,2001.0,https://genius.com/Something-for-Kate-monsters-lyrics,---
+996,False,USA,997,2001.0,3.0,System of a Down,Chop Suey!,2001.0,https://genius.com/System-of-a-Down-chop-suey-lyrics,"[2001, 8, 13]"
+997,False,Australia,998,2001.0,5.0,John Butler Trio,Betterman,2001.0,https://genius.com/John-Butler-Trio-betterman-lyrics,"[2001, 4, 18]"
+998,False,USA,999,2001.0,6.0,Alien Ant Farm,Smooth Criminal,2001.0,https://genius.com/Alien-Ant-Farm-smooth-criminal-lyrics,"[2001, 7, 24]"
+999,False,USA,1000,2001.0,7.0,Weezer,Island In The Sun,2001.0,https://genius.com/Weezer-island-in-the-sun-lyrics,"[2001, 8, 28]"
+1000,False,Australia,1001,2001.0,8.0,The Avalanches,Since I Left You,2001.0,https://genius.com/The-Avalanches-since-i-left-you-lyrics,"[2000, 11, 27]"
+1001,False,UK,1002,2001.0,9.0,Gorillaz,Clint Eastwood,2001.0,https://genius.com/Gorillaz-clint-eastwood-lyrics,"[2001, 3, 5]"
+1002,False,USA,1003,2001.0,10.0,Cake,Short Skirt/Long Jacket,2001.0,Cake,---
+1003,False,USA,1004,2001.0,11.0,Garbage,Cherry Lips (Go Baby Go!),2001.0,https://genius.com/Garbage-cherry-lips-go-baby-go-lyrics,"[2002, 1, 21]"
+1004,False,USA,1005,2001.0,12.0,The Strokes,Last Nite,2001.0,https://genius.com/The-Strokes-last-nite-lyrics,"[2001, 11, 5]"
+1005,False,Australia,1006,2001.0,13.0,Something for Kate,Three Dimensions,2001.0,https://genius.com/Something-for-Kate-three-dimensions-lyrics,---
+1006,False,USA,1007,2001.0,14.0,Tool,Schism,2001.0,https://genius.com/Tool-schism-lyrics,"[2001, 5, 15]"
+1007,False,UK,1008,2001.0,15.0,Gorillaz,19-2000,2001.0,https://genius.com/Gorillaz-19-2000-lyrics,"[2001, 6, 25]"
+1008,False,Australia,1009,2001.0,16.0,28 Days/Apollo 440,Say What?,2001.0,28 Days/Apollo 440,---
+1009,False,USA,1010,2001.0,18.0,Rage Against the Machine,Renegades of Funk,2001.0,https://genius.com/Rage-Against-the-Machine-renegades-of-funk-lyrics,"[2000, 12, 5]"
+1010,False,Australia,1011,2001.0,19.0,George,Special Ones,2001.0,https://genius.com/George-special-ones-lyrics,---
+1011,False,USA,1012,2001.0,20.0,Weezer,Hash Pipe,2001.0,https://genius.com/Weezer-hash-pipe-lyrics,---
+1012,False,UK,1013,2001.0,21.0,Fatboy Slim,Weapon of Choice,2001.0,https://genius.com/Fatboy-Slim-weapon-of-choice-lyrics,"[2001, 4, 23]"
+1013,False,Australia,1014,2001.0,24.0,Gerling,Dust Me Selecta,2001.0,https://genius.com/Gerling-dust-me-selecta-lyrics,---
+1014,False,Australia,1015,2001.0,25.0,Eskimo Joe,Wake Up,2001.0,https://genius.com/Eskimo-Joe-wake-up-lyrics,---
+1015,False,UK,1016,2001.0,26.0,Jamiroquai,Little L,2001.0,https://genius.com/Jamiroquai-little-l-lyrics,"[2001, 8, 13]"
+1016,False,Australia,1017,2001.0,27.0,Regurgitator,Fat Cop,2001.0,https://genius.com/Regurgitator-fat-cop-lyrics,---
+1017,False,Australia,1018,2001.0,28.0,Jebediah,Fall Down,2001.0,https://genius.com/Jebediah-fall-down-lyrics,---
+1018,False,Australia,1019,2001.0,29.0,John Butler Trio,Take,2001.0,https://genius.com/John-Butler-Trio-take-lyrics,---
+1019,False,Australia,1020,2001.0,30.0,Machine Gun Fellatio,The Girl Of My Dreams (Is Giving Me Nightmares),2001.0,https://genius.com/Machine-Gun-Fellatio-the-girl-of-my-dreams-is-giving-me-nightmares-lyrics,---
+1020,False,Australia,1021,2001.0,31.0,Eskimo Joe,Planet Earth,2001.0,https://genius.com/Eskimo-Joe-planet-earth-lyrics,---
+1021,False,UK,1022,2001.0,32.0,Placebo,Special K,2001.0,https://genius.com/Placebo-special-k-lyrics,"[2000, 10, 9]"
+1022,False,UK,1023,2001.0,33.0,James,Getting Away With It (All Messed Up),2001.0,https://genius.com/James-getting-away-with-it-all-messed-up-lyrics,"[2001, 6, 25]"
+1023,False,Australia,1024,2001.0,34.0,Eskimo Joe,Who Sold Her Out,2001.0,https://genius.com/Eskimo-Joe-who-sold-her-out-lyrics,---
+1024,False,UK,1025,2001.0,35.0,Dido,Thank You,2001.0,https://genius.com/Dido-thank-you-lyrics,"[2000, 12, 12]"
+1025,False,UK,1026,2001.0,36.0,Radiohead,Pyramid Song,2001.0,https://genius.com/Radiohead-pyramid-song-lyrics,"[2001, 5, 16]"
+1026,False,Australia,1027,2001.0,37.0,Something for Kate,Twenty Years,2001.0,https://genius.com/Something-for-Kate-twenty-years-lyrics,---
+1027,False,UK,1028,2001.0,38.0,New Order,Crystal,2001.0,https://genius.com/New-Order-crystal-lyrics,---
+1028,False,Australia,1029,2001.0,39.0,The Cruel Sea,Cocaine,2001.0,The Cruel Sea,---
+1029,False,Ireland,1030,2001.0,40.0,U2,Elevation {Tomb Raider Remix},2001.0,U2,---
+1030,False,Australia,1031,2001.0,41.0,Regurgitator,Superstraight,2001.0,https://genius.com/Regurgitator-superstraight-lyrics,---
+1031,False,USA,1032,2001.0,43.0,The Eels,Souljacker,2001.0,The Eels,---
+1032,False,USA,1033,2001.0,44.0,Garbage,Androgyny,2001.0,https://genius.com/Garbage-androgyny-lyrics,"[2001, 9, 24]"
+1033,False,USA,1034,2001.0,45.0,Tori Amos,Strange Little Girl,2001.0,https://genius.com/Tori-Amos-strange-little-girl-lyrics,"[2001, 10, 9]"
+1034,False,USA,1035,2001.0,46.0,The Smashing Pumpkins,Untitled,2001.0,https://genius.com/The-Smashing-Pumpkins-untitled-lyrics,---
+1035,False,Australia,1036,2001.0,47.0,Augie March,There Is No Such Place,2001.0,https://genius.com/Augie-March-there-is-no-such-place-lyrics,---
+1036,False,USA,1037,2001.0,49.0,Tool,Parabola,2001.0,https://genius.com/Tool-parabola-lyrics,"[2001, 5, 15]"
+1037,False,Australia,1038,2001.0,50.0,Paul Mac,Just The Thing,2001.0,https://genius.com/Paul-Mac-just-the-thing-lyrics,---
+1038,False,Australia,1039,2001.0,51.0,Nick Cave & The Bad Seeds,Fifteen Feet Of Pure White Snow,2001.0,Nick Cave & The Bad Seeds,---
+1039,False,Australia,1040,2001.0,53.0,Motor Ace,Hey Driver,2001.0,https://genius.com/Motor-Ace-hey-driver-lyrics,---
+1040,False,USA,1041,2001.0,54.0,Blink-182,The Rock Show,2001.0,https://genius.com/Blink-182-the-rock-show-lyrics,"[2001, 6, 25]"
+1041,False,USA,1042,2001.0,55.0,Linkin Park,One Step Closer,2001.0,https://genius.com/Linkin-Park-one-step-closer-lyrics,"[2000, 9, 28]"
+1042,False,Australia,1043,2001.0,56.0,You Am I,Kick A Hole In The Sky,2001.0,https://genius.com/You-Am-I-kick-a-hole-in-the-sky-lyrics,---
+1043,False,Australia,1044,2001.0,57.0,You Am I,Get Up,2001.0,https://genius.com/You-Am-I-get-up-lyrics,---
+1044,False,USA,1045,2001.0,58.0,Jimmy Eat World,Bleed American,2001.0,https://genius.com/Jimmy-Eat-World-bleed-american-lyrics,"[2001, 9, 24]"
+1045,False,USA,1046,2001.0,59.0,The Strokes,Hard To Explain,2001.0,https://genius.com/The-Strokes-hard-to-explain-lyrics,"[2001, 6, 25]"
+1046,False,USA,1047,2001.0,60.0,At the Drive-In,Pattern Against User,2001.0,https://genius.com/At-the-Drive-In-pattern-against-user-lyrics,"[2000, 9, 12]"
+1047,False,France,1048,2001.0,61.0,Daft Punk,One More Time,2001.0,https://genius.com/Daft-Punk-one-more-time-lyrics,"[2000, 11, 13]"
+1048,False,UK,1049,2001.0,62.0,Jamiroquai,You Give Me Something,2001.0,https://genius.com/Jamiroquai-you-give-me-something-lyrics,"[2001, 11, 19]"
+1049,False,Australia,1050,2001.0,63.0,Alex Lloyd,Downtown,2001.0,https://genius.com/Alex-Lloyd-downtown-lyrics,---
+1050,False,USA,1051,2001.0,64.0,The White Stripes,Hotel Yorba,2001.0,https://genius.com/The-White-Stripes-hotel-yorba-lyrics,"[2001, 11, 10]"
+1051,False,Ireland,1052,2001.0,65.0,Ash,Burn Baby Burn,2001.0,https://genius.com/Ash-burn-baby-burn-lyrics,"[2001, 4, 2]"
+1052,False,USA,1053,2001.0,66.0,The Strokes,New York City Cops,2001.0,https://genius.com/The-Strokes-new-york-city-cops-lyrics,"[2001, 6, 25]"
+1053,False,USA,1054,2001.0,67.0,Ben Folds,Not The Same,2001.0,https://genius.com/Ben-Folds-not-the-same-lyrics,"[2001, 9, 11]"
+1054,False,Australia,1055,2001.0,68.0,Blueline Medic,Making The Nouveau Riche,2001.0,https://genius.com/Blueline-Medic-making-the-nouveau-riche-lyrics,---
+1055,False,USA,1056,2001.0,69.0,Unwritten Law,Up All Night,2001.0,https://genius.com/Unwritten-Law-up-all-night-lyrics,---
+1056,False,Germany,1057,2001.0,70.0,Rammstein,Links 2-3-4,2001.0,https://genius.com/Rammstein-links-2-3-4-lyrics,"[2001, 4, 2]"
+1057,False,Australia,1058,2001.0,71.0,Spiderbait,Outta My Head,2001.0,https://genius.com/Spiderbait-outta-my-head-lyrics,---
+1058,False,Australia,1059,2001.0,72.0,The Living End,Roll On,2001.0,https://genius.com/The-Living-End-roll-on-lyrics,---
+1059,False,UK,1060,2001.0,73.0,Muse,Plug In Baby,2001.0,https://genius.com/Muse-plug-in-baby-lyrics,"[2001, 3, 5]"
+1060,False,UK,1061,2001.0,74.0,Radiohead,Knives Out,2001.0,https://genius.com/Radiohead-knives-out-lyrics,"[2001, 8, 5]"
+1061,False,UK,1062,2001.0,75.0,Groove Armada,My Friend,2001.0,https://genius.com/Groove-Armada-my-friend-lyrics,---
+1062,False,Australia,1063,2001.0,76.0,The Avalanches,Radio,2001.0,https://genius.com/The-Avalanches-radio-lyrics,"[2000, 11, 27]"
+1063,False,Australia,1064,2001.0,77.0,Big Heavy Stuff,Hibernate,2001.0,Big Heavy Stuff,---
+1064,False,Australia,1065,2001.0,78.0,Cruel Sea,A Simple Goodbye,2001.0,Cruel Sea,---
+1065,False,USA,1066,2001.0,79.0,R.E.M.,Imitation of Life,2001.0,R.E.M.,---
+1066,False,UK,1067,2001.0,80.0,Muse,Bliss,2001.0,https://genius.com/Muse-bliss-lyrics,"[2001, 8, 20]"
+1067,False,USA,1068,2001.0,81.0,Crazy Town,Butterfly,2001.0,https://genius.com/Crazy-Town-butterfly-lyrics,"[1999, 10, 26]"
+1068,False,UK,1069,2001.0,83.0,Ash,Shining Light,2001.0,https://genius.com/Ash-shining-light-lyrics,"[2001, 1, 29]"
+1069,False,France,1070,2001.0,84.0,Supermen Lovers,Starlight,2001.0,Supermen Lovers,---
+1070,False,USA,1071,2001.0,85.0,At the Drive-In,Invalid Litter Dept.,2001.0,At the Drive-In,---
+1071,False,Australia,1072,2001.0,86.0,Rhubarb,Light On Your Shoulder,2001.0,https://genius.com/Rhubarb-light-on-your-shoulder-lyrics,---
+1072,False,USA,1073,2001.0,87.0,Michael Franti and Spearhead,Rock The Nation,2001.0,https://genius.com/Michael-Franti-and-Spearhead-rock-the-nation-lyrics,"[2001, 5, 15]"
+1073,False,Australia,1074,2001.0,88.0,Spiderbait,Four On The Floor,2001.0,https://genius.com/Spiderbait-four-on-the-floor-lyrics,---
+1074,False,UK,1075,2001.0,89.0,Muse,New Born,2001.0,https://genius.com/Muse-new-born-lyrics,"[2001, 6, 5]"
+1075,False,UK,1076,2001.0,90.0,New Order,60 Miles an Hour,2001.0,https://genius.com/New-Order-60-miles-an-hour-lyrics,"[2001, 11, 26]"
+1076,False,Canada,1077,2001.0,91.0,Sum 41,Fat Lip,2001.0,https://genius.com/Sum-41-fat-lip-lyrics,"[2001, 4, 22]"
+1077,False,Australia,1078,2001.0,92.0,George,Run,2001.0,https://genius.com/George-run-lyrics,---
+1078,False,USA,1079,2001.0,93.0,Butthole Surfers,The Shame of Life,2001.0,https://genius.com/Butthole-Surfers-the-shame-of-life-lyrics,"[2001, 8, 28]"
+1079,False,UK,1080,2001.0,94.0,Depeche Mode,I Feel Loved,2001.0,https://genius.com/Depeche-Mode-i-feel-loved-lyrics,"[2001, 7, 30]"
+1080,False,USA,1081,2001.0,95.0,Good Charlotte,Little Things,2001.0,https://genius.com/Good-Charlotte-little-things-lyrics,"[2001, 3, 27]"
+1081,False,USA,1082,2001.0,96.0,Pennywise,Fuck Authority,2001.0,https://genius.com/Pennywise-fuck-authority-lyrics,---
+1082,False,Australia,1083,2001.0,97.0,Superheist,Step Back,2001.0,https://genius.com/Superheist-step-back-lyrics,---
+1083,False,UK,1084,2001.0,98.0,Faithless,We Come 1,2001.0,https://genius.com/Faithless-we-come-1-lyrics,"[2001, 5, 28]"
+1084,False,UK,1085,2001.0,99.0,The Chemical Brothers,It Began in Afrika,2001.0,https://genius.com/The-Chemical-Brothers-it-began-in-afrika-lyrics,"[2001, 9, 10]"
+1085,False,Australia,1086,2001.0,100.0,Endorphin,Sex And Violence,2001.0,Endorphin,---
+2112,False,UK,2113,2001.0,4.0,Basement Jaxx,Where's Your Head At?,2001.0,https://genius.com/Basement-Jaxx-wheres-your-head-at-lyrics,"[2001, 11, 26]"
+2113,False,USA,2114,2001.0,17.0,Ben Folds,Rockin' The Suburbs,2001.0,https://genius.com/Ben-Folds-rockin-the-suburbs-lyrics,"[2001, 4, 17]"
+2114,False,USA,2115,2001.0,22.0,Ben Harper,Drugs Don't Work,2001.0,Ben Harper,---
+2115,False,UK,2116,2001.0,23.0,PJ Harvey/Thom Yorke,This Mess We're In,2001.0,PJ Harvey/Thom Yorke,---
+2116,False,Australia,2117,2001.0,42.0,The Whitlams,Duffy's Song (I Will Not Go Quietly),2001.0,The Whitlams,---
+2117,False,UK,2118,2001.0,48.0,Groove Armada,Superstylin',2001.0,https://genius.com/Groove-Armada-superstylin-lyrics,---
+2118,False,USA,2119,2001.0,52.0,They Might Be Giants,Man It's So Loud In Here,2001.0,https://genius.com/They-Might-Be-Giants-man-its-so-loud-in-here-lyrics,"[2001, 9, 11]"
+2119,False,Australia,2120,2001.0,82.0,Lazaro's Dog,Home Entertainment System,2001.0,Lazaro's Dog,---
