@@ -186,13 +186,12 @@ def add_missing_col(check_str):
 
 
 def google_search(search_term, api_key, cse_id, **kwargs):
-        """Find in the string "s", the substring between the 2 substrings "first" and "last"
-
-    :param s: The main string that the search will be conducted through
-    :param first: The initial substring that encloses the returned substring
-    :param last: The last substring that encloses the returned substring
-    :param search_string: A string that can be searched in the found string. If not used enter ""
-    :return: A list of all substringa that are enclosed by the first and last substrings
+    """ Search google for URL
+    
+    :param search_term: the term to be searched for
+    :param api_key: API key for google service
+    :param cse_id: custom search engine ID"
+    :return: the first link found
     """
     # Currently limited to 100 queries a day
     # Figure a more efficient way of searching google
@@ -204,7 +203,7 @@ def google_search(search_term, api_key, cse_id, **kwargs):
 
 
 def search_for_url(name, song):
-    """Find in the string "s", the substring between the 2 substrings "first" and "last"
+    """ Add URL (based on name and song title) to DF
     
     :param name: artist name
     :param song: song name
@@ -266,7 +265,7 @@ def update_df(name, song, url, update_df):
 
 # ======== Main Function ============
 def main(search_google):
-    """Find in the string "s", the substring between the 2 substrings "first" and "last"
+    """ Main function that scrapes data and saves it
 
     :param search_google: Boolean (True if google search is required)
     :return: DF containing the results of the scraping
@@ -308,10 +307,4 @@ def main(search_google):
     print(f"time to complete: {datetime.now() - start}")
     return hottest_100_DF
 
-
-def plot_countries(data_df):
-    print(data_df["country"].value_counts())
-
-
 data = main(False)
-# plot_countries(data)
